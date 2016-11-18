@@ -99,8 +99,8 @@ public class TexGen
 		texture.filterMode = FilterMode.Point;
 
 		Color color;
-		int prevSeed = Random.seed;
-		Random.seed = seed;
+		var prevRNGState = Random.state;
+		Random.InitState(seed);
 		for(int y = 0; y < texture.height; y++)
 		{
 			for(int x = 0; x < texture.width / 2; x++)
@@ -115,7 +115,7 @@ public class TexGen
 				texture.SetPixel(texture.width - 1 - x, y, color);
 			}
 		}
-		Random.seed = prevSeed;
+		Random.state = prevRNGState;
 
 		texture.Apply();
 		return texture;
