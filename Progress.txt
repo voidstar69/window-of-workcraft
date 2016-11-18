@@ -1,0 +1,95 @@
+Ludum Dare 31 Compo (~18 hours during compo)
+Entire Game on One Screen
+-------------------------
+
+Dec 6th 2014, Sat (~11 hours)
+------------
+(All progress written down on paper somewhere...)
+
+
+Dec 7th, Sun (~7 hours)
+------------
+15:30 to
+16:00   Brainstormed in this file about ideas and must-haves before shipping!
+16:30   Changed player and background color. Showed off game to other guys and got feedback.
+17:00   Added static sword to monster. Fought with positioning of sword as child of monster!
+17:30   Animated monster's sword.
+18:00   Monster fights back and can kill player (although from any distance!)
+18:30   Took a break. Tried to add a health bar for player.
+19:00   Ate pizza for dinner. Created heart pixel art for health icon.
+19:30   Filled in feedback survey. Added shrinking heath icon below player and monster.
+20:00   Added XP as score. Made each monster's sword a bit faster, increasing difficulty. 
+20:30   Testing game a bit. Remade banner from nice font.
+21:00   Tested in browser. Got someone else to give me feedback. Tried but failed to increase text size.
+21:15   Changed player respawn location, and tuned monster sword speedup.
+21:50 to
+23:10   Travelled home and got ready for bed.
+23:30   Fixed game hosting on Dropbox. Linked to game sourcecode on Dropbox.
+23:45   Hosted game on Itch.io, and linked from LD website to Itch.io website.
+
+
+Dec 12th (~3 hours)
+--------
+20:40 to
+21:10   Put pizza in oven. Copied Android touch movement controls from LD30 game to this LD31 game. Tried to build for Android, but some settings are missing.
+Ate pizza while...
+22:30   Tweaked my game on Itch.io and LudumDare.com to fit better in embedded window. Added screenshots with highscores, and commented on LD with highscore. Posted link on Twitter and Facebook.
+22:40   Spoke to Anna on the phone.
+23:30   Built game for Android and tested on my phone.
+23:50   Uploaded APK to Google Play, and added screenshots and settings, except for icon and feature graphic.
+
+
+Dec 13th (1 hour)
+--------
+08:30 to
+09:30   Created high-res icon and feature graphic for Google Play Store. Fixed the splash screen image. Uploaded new APK to Play Store.
+
+
+Description
+-----------
+A spoof of a popular online game.
+
+Controls: left and right arrow keys
+
+Aim: collect XP and grow your sword! Try to get a high score over 700,000!
+
+
+Product feature bullets
+-----------------------
+A spoof of a popular online game.
+Simple controls: just swipe left and right.
+Try to attach the monster without getting hit.
+Collect XP and grow your sword!
+
+
+Keywords
+--------
+best, brutal, challenging, color, colour, difficult, exciting, fun, game, games, hard, minimal, minimalist, perma-death, permadeath, punishing, retro, smart, spoof, sword-fighting
+
+
+*** MUST DO BEFORE SHIPPING! ***
+--------------------------------
+[CRAP MUSIC!] 05 mins   Re-enable background music
+[NO!] 05 mins   Make NPC.max monsters to kill higher
+[REALLY?] 10 mins   Create a player sprite
+[DONE] 20 mins   Make "Window of Work" banner transparent, and better
+[DONE] 20 mins   Publish as web app, and test in browser!
+[BROKEN!] 30 mins   Publish to LD website via Dropbox
+
+
+Ideas (with about 5 hours left until I go home!)
+------------------------------------------------
+[DONE] 120 mins  Make monsters fight back, to add danger/risk to game! Make it a timing game, where different monster types attack at different speeds? Player needs health! Player heals completely after completing each quest? Monster should show a health bar too, with later monsters taking more hits to kill (even with bigger sword)? 
+
+One guy's ideas:
+(easy to add - could have a line after each quest is done) Add funny text to add comedy to the spoof game.
+(too hard) Have very realistic sfx and music to contrast against the pixel art.
+(too hard/random?) Make a rock-paper-scissors fight mechanic to add gameplay.
+
+60 mins?  Sound effects!
+
+Game is not fun!!!
+
+[Many hours]  1D movement is boring - turn this into 2D game? Might take a lot of time!
+
+Polish the boring 1D game? What's the point?
